@@ -22,7 +22,7 @@ Technologies used:
 Future Scope: 
 •	Dataset can be used as a practical use case for users looking to buy a property by doing a comparative analysis of preferred parameters
 •	Expansion of the database by including the Boston Combined Statistical Area, Northeast Megalopolis, or Northeast Corridor (world's largest megalopolis in terms of economic output, 2nd largest in terms of number of residents)
-•	Creation of an automated data pipeline for ease of access to information, insights, and decision making
+•	Creation of an automated data pipeline for ease of access to information, insights, and decision-making
 •	(Potential) Apply machine learning model for predictions 
  
 
@@ -36,9 +36,5 @@ The physical model of the R2R model
 
 
 
-Team Members: 
-•	Name - Shashank Dongre	NUID - 002747740	Email - dongre.s@northeastern.edu	GitHub - https://github.com/ShashankDongre
-•	Name - Riya Virani		NUID - 002747048	Email - virani.r@northeastern.edu	GitHub - https://github.com/riya-virani
-•	Name - Ojasvi Patel		NUID - 002793770	Email - patel.oj@northeastern.edu	GitHub - https://github.com/Ojasvi1329
 
 
